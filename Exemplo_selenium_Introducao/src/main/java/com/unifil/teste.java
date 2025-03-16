@@ -31,8 +31,7 @@ public class teste {
             // Localiza o botão "Acessar" e clica nele
             WebElement acessarButton = driver.findElement(By.id("Acessar"));
             acessarButton.click();
-
-            // Aguarda um pouco para visualizar o resultado
+            
             Thread.sleep(5000);
         } catch (Exception e) {
             e.printStackTrace();
