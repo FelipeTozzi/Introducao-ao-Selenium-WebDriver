@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03d893a0-b1b6-4905-beb6-9fa393866d91" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exemplo_selenium_Introducao/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exemplo_selenium_Introducao/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exemplo_selenium_Introducao/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exemplo_selenium_Introducao/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exemplo_selenium_Introducao/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exemplo_selenium_Introducao/src/main/java/com/unifil/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exemplo_selenium_Introducao/src/main/java/com/unifil/teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exemplo_selenium_Introducao/src/test/java/ExemploSelenium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exemplo_selenium_Introducao/src/main/java/com/unifil/teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exemplo_selenium_Introducao/src/main/java/com/unifil/teste.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
